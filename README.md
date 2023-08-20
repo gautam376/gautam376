@@ -1,6 +1,6 @@
-- 👋 Hi, I’m DEEPANSHU SINGH GAUTAM ,student at IIITSM. I am currently persuing B-Tech in COMPUTER SCIENCE.
-- 👀 I’m interested in web development,competitive coding ,androids and many more .
-- 🌱 I’m currently learning android development and working on my DSA.
+- 👋 Hi, I’m DEEPANSHU SINGH GAUTAM ,student at IIITSM. I am currently pursuing B-Tech in COMPUTER SCIENCE.
+- 👀 I’m interested in web development,open source , blockchain and many more .
+- 🌱 I’m currently learning blockchain development and working on my DSA.
 - 💞️ I’m looking to collaborate with like minded people whom I can support and can be supported by .
 - 📫 How to reach me ...
 - my email link : ds5561674@gmail.com
