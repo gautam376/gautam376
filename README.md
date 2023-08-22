@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **any INDIAN CUISINE !!👍(❁´◡`❁)**
 
-- 📫 How to reach me **ds5561674@gmail.com**
+- 📫 How to reach me **ds5561674@gmail.com ✉️ **
 
 - ⚡ Fun fact **WELL !! MEET ME 😊**
 
