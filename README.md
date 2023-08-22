@@ -1,3 +1,4 @@
+![logo](https://github.com/fxxxxr/fxxxxr/blob/main/GIT-PRO.png)
 <h1 align="center">Hi 👋, I'm DEEPANSHU SINGH GAUTAM</h1>
 <h3 align="center">A CURIOUS MIND from INDIA ! </h3>
 <img align ="right" alt="coding" width = "400" src="https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0">
