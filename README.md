@@ -1,4 +1,4 @@
-![logo](https://github.com/fxxxxr/fxxxxr/blob/main/GIT-PRO.png)
+![logo](https://github.com/fxxxxr/fxxxxr/blob/main/GIT-PRO-min.png)
 <h1 align="center">Hi 👋, I'm DEEPANSHU SINGH GAUTAM</h1>
 <h3 align="center">A CURIOUS MIND from INDIA ! </h3>
 <img align ="right" alt="coding" width = "400" src="https://www.bing.com/th/id/OGC.f841ac2befaedda240c55a06b23b33ec?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1600%2f0*C-cPP9D2MIyeexAT.gif&ehk=MovqtbBPxikWiRUkqLOAmqYT1WSb85bwZvNSwzysO3c%3d">
