@@ -1,5 +1,6 @@
-![logo](file:///C:/Users/hp/Desktop/coding/c%20tutorials/GIT-PRO-min.png)
-<h1 align="center">Hi 👋, I'm DEEPANSHU </h1>
+![logo](file:///C:/Users/hp/AppData/Local/Temp/MicrosoftEdgeDownloads/8ec13654-a553-42bb-a2b4-994ddd474247/GIT-PRO.pdf)
+<h1 style ="background : url('![image](https://github.com/fxxxxr/fxxxxr/assets/137297676/486275ab-d030-49fa-96ed-ab10c241ab80)
+')"align="center">Hi 👋, I'm DEEPANSHU </h1>
 <h3 align="center">A CURIOUS MIND from INDIA ! </h3>
 <img align ="right" alt="coding" width = "400" src="https://www.bing.com/th/id/OGC.f841ac2befaedda240c55a06b23b33ec?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1600%2f0*C-cPP9D2MIyeexAT.gif&ehk=MovqtbBPxikWiRUkqLOAmqYT1WSb85bwZvNSwzysO3c%3d">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fxxxxr&label=Profile%20views&color=0e75b6&style=flat" alt="fxxxxr" /> </p>
