@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available  [on GitHub](https://github.com/fxxxxr)
 
-- 📝 I generally write articles on [Devops](Devops)
+- 📝 I generally write articles on < [Devops](Devops)
 
 - 💬 Ask me about **any INDIAN CUISINE !!👍(❁´◡`❁)**
 
