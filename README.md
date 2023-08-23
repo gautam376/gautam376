@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help regarding **design of My Website**
 
-- 👨‍💻 All of my projects are available at [on GitHub](on GitHub)
+- 👨‍💻 All of my projects are available  [on GitHub](https://github.com/fxxxxr)
 
 - 📝 I generally write articles on [Devops](Devops)
 
