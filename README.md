@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **ANY THING NEW !**
 
-- 🤝 I’m looking for help regarding **design of My Website**
+- 🤝 I’m looking for help regarding **design of My Portfolio Website**
 
 - 👨‍💻 All of my projects are available  [on GitHub](https://github.com/fxxxxr)
 
