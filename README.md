@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **BUILDING MY PORTFOLIO WEBSITE**
 
-- 🌱 I’m currently learning **JS .**
+- 🌱 I’m currently learning **DATA STRUCTURE AND ALGORITHM.**
 
 - 👯 I’m looking to collaborate on **ANY THING NEW !**
 
