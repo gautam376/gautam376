@@ -1,12 +1,10 @@
 <img src="https://marketingaccesspass.com/wp-content/uploads/2015/10/Podcast-Website-Design-Background-Image.jpg">
 <!-- (https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966) -->
-<h1 style ="background : url('![image](https://github.com/fxxxxr/fxxxxr/assets/137297676/486275ab-d030-49fa-96ed-ab10c241ab80)
+<h1 style ="background : url('![image](https://github.com/gautam376/fxxxxr/assets/137297676/486275ab-d030-49fa-96ed-ab10c241ab80)
 ')"align="center">Hi 👋, I'm DEEPANSHU </h1>
 <h3 align="center">A CURIOUS MIND from INDIA ! </h3>
 <img align ="right" alt="coding" width = "400" src="https://www.bing.com/th/id/OGC.f841ac2befaedda240c55a06b23b33ec?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1600%2f0*C-cPP9D2MIyeexAT.gif&ehk=MovqtbBPxikWiRUkqLOAmqYT1WSb85bwZvNSwzysO3c%3d">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fxxxxr&label=Profile%20views&color=0e75b6&style=flat" alt="fxxxxr" /> </p>
-
-- 🔭 I’m currently working on **BUILDING MY PORTFOLIO WEBSITE**
 
 - 🌱 I’m currently learning **DATA STRUCTURE AND ALGORITHM.**
 
@@ -14,7 +12,7 @@
 
 - 🤝 I’m looking for help regarding **design of My Portfolio Website**
 
-- 👨‍💻 All of my projects are available  [on GitHub](https://github.com/fxxxxr)
+- 👨‍💻 All of my projects are available  [on GitHub](https://github.com/gautam376)
 
 - 📝 I generally write articles on < [Devops](Devops)
 
@@ -46,9 +44,9 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.829ba0348008c26688ae4e234c127f07?rik=GNVWcBWg4nvsww&riu=http%3a%2f%2fpngimg.com%2fuploads%2fphotoshop%2fphotoshop_PNG56.png&ehk=kzpasgSGIpIzllQWXVKjyM1kCW42tK9Iq1WGaMFWK8U%3d&risl=&pid=ImgRaw&r=0" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.lZHtgsqo0gww25bLcpjTqQD6D5?pid=ImgDet&rs=1" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fxxxxr&show_icons=true&locale=en&layout=compact" alt="fxxxxr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautam376&show_icons=true&locale=en&layout=compact" alt="gautam376" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fxxxxr&show_icons=true&locale=en" alt="fxxxxr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautam376&show_icons=true&locale=en" alt="gautam376" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fxxxxr&" alt="fxxxxr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautam376&" alt="gautam376" /></p>
 
