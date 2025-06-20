@@ -5,15 +5,11 @@
 <img align ="right" alt="coding" width = "400" src="https://www.bing.com/th/id/OGC.f841ac2befaedda240c55a06b23b33ec?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1600%2f0*C-cPP9D2MIyeexAT.gif&ehk=MovqtbBPxikWiRUkqLOAmqYT1WSb85bwZvNSwzysO3c%3d">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fxxxxr&label=Profile%20views&color=0e75b6&style=flat" alt="fxxxxr" /> </p>
 
-- 🌱 I’m currently learning **DATA STRUCTURE AND ALGORITHM.**
+- 🌱 I’m currently learning **Cryptographic Techniques**
 
-- 👯 I’m looking to collaborate on **ANY THING NEW !**
+- 👯 I’m looking to collaborate on **Web3 Projects**
 
-- 🤝 I’m looking for help regarding **design of My Portfolio Website**
-
-- 👨‍💻 All of my projects are available  [on GitHub](https://github.com/gautam376)
-
-- 📝 I generally write articles on < [Devops](Devops)
+- 👨‍💻 All of my projects are available  [on GitHub](https://github.com/gautam376) and my [Portfolio Website](https://gautam376.github.io).
 
 - 💬 Ask me about **any INDIAN CUISINE !!👍(❁´◡`❁)**
 
